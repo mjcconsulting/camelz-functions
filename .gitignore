@@ -4,11 +4,10 @@ new/
 tmp/
 save/
 
-# Lambda deployment packages
-*.zip
-*.zip.base64
+# Artifacts
+bucket/
 
-# Logs
+# Log files
 logs
 *.log
 *.log.*
