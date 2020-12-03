@@ -1,10 +1,9 @@
-# Cross-Account Multi-Environment Landing Zones Functions
-Camelz Framework Lambda Functions.
+# CAMELZ Functions
+Cross-Account Multi-Environment Landing Zones Framework Lambda Functions.
 
-Most of these functions are used to implement CustomResources in the [Camelz Framework Templates](https://github.com/mjcconsulting/camelz-templates) repo.
+Most of these functions are used to implement CustomResources used in the [CAMELZ Templates](https://github.com/mjcconsulting/camelz-templates) repo.
 
-Some functions are used to automate actions via Cloudwatch Events.
+Some functions are used to automate actions via CloudWatch Events.
 
 ### License
-
-Camelz Functions is [MIT licensed](./LICENSE).
+CAMELZ Functions is [MIT licensed](./LICENSE).
